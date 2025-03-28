@@ -4,6 +4,12 @@ created with Pyxel
 
 Use arrow keys to avoid falling meteors. You can move only right or left.
 
+![スクリーンショット 2025-03-28 103417](https://github.com/user-attachments/assets/0f2347ea-1476-4083-8e4f-aa9a1109b557)
+
+
+
+
+
 
 著作権表示
 PyxelはTakashi Kitao様が制作したPython用レトロゲームエンジンです。
